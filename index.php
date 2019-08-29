@@ -1,5 +1,7 @@
 <?php
 
+
+//committing to test
 define("INSTALL_PATH", '/uMVC/index.php'); //relative path to index.php 
 define("DEFAULT_CONTROLLER", 'welcome'); //default controller  
 define("DEFAULT_METHOD", 'index'); //default method  
